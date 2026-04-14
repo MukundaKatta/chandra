@@ -1,6 +1,6 @@
 # chandra — Financial Sentiment Analyzer. Financial news sentiment analyzer
 
-Financial Sentiment Analyzer. Financial news sentiment analyzer. chandra gives you a focused, inspectable implementation of that idea.
+Financial Sentiment Analyzer. Financial news sentiment analyzer.
 
 ## Why chandra
 
