@@ -1,56 +1,28 @@
-# 🔱 Chandra — Financial Sentiment Analyzer
+# chandra — Financial Sentiment Analyzer. Financial news sentiment analyzer
 
-> **Hindu Mythology**: Moon God | Financial news sentiment analyzer
+Financial Sentiment Analyzer. Financial news sentiment analyzer. chandra gives you a focused, inspectable implementation of that idea.
 
-[![GitHub Pages](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-blue?style=for-the-badge)](https://MukundaKatta.github.io/chandra/)
-[![GitHub](https://img.shields.io/github/license/MukundaKatta/chandra?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/MukundaKatta/chandra?style=flat-square)](https://github.com/MukundaKatta/chandra/stargazers)
+## Why chandra
 
-## 🚀 Overview
+chandra exists to make this workflow practical. Financial sentiment analyzer. financial news sentiment analyzer. It favours a small, inspectable surface over sprawling configuration.
 
-Financial news sentiment analyzer
+## How It Works
 
-**Tech Stack:** Python, BERT
+The code is organised as a focused, single-purpose module with a clear entry point and minimal ceremony.
 
-## 📦 Quick Start
+## Getting Started
 
-```bash
-git clone https://github.com/MukundaKatta/chandra.git
-cd chandra
-# Follow setup instructions below
-```
+Clone the repository and inspect the source to see how to run it.
 
-## 🏗️ Project Structure
+## Usage
+
+See the source files and entry points for concrete usage patterns.
+
+## Project Structure
 
 ```
 chandra/
-├── README.md
-├── LICENSE
 ├── CLAUDE.md
-├── .gitignore
-├── src/
-│   ├── main.py
-│   ├── config.py
-│   └── utils.py
-├── tests/
-│   └── test_main.py
-├── docs/
-│   └── architecture.md
-├── examples/
-│   └── basic_usage.py
-└── .github/
-    └── workflows/
-        └── static.yml
+├── LICENSE
+├── README.md
 ```
-
-## 🌐 Live Demo
-
-Visit the landing page: **https://MukundaKatta.github.io/chandra/**
-
-## 📄 License
-
-MIT License — © 2026 Officethree Technologies
-
-## 🔱 Part of the Mythological Portfolio
-
-This is project **#chandra** in the [100-project Mythological Portfolio](https://github.com/MukundaKatta) by Officethree Technologies.
